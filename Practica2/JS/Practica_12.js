@@ -1,0 +1,1 @@
+alert(parseFloat(Math.random() * 99)+1);
